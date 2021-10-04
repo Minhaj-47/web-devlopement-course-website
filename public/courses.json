@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+      "img": "./Images/course-1.jpg",
+      "courseName": "The Web Developer Bootcamp 2021",
+      "instructorName": "Colt Steele",
+      "price": 14,
+      "tagLine": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "lastUpdated": "9/2021",
+      "language": "English",
+      "subtitles": "English, French, German, Italian, Polish, Portuguese, Spanish ",
+      "willLearn": "./will-Learn-Images/Image-1.PNG"
+    },
+    {
+        "id": 2,
+      "img": "./Images/course-2.jpg",
+      "courseName": "Modern React with Redux",
+      "instructorName": "Stephen Grider",
+      "price": 15,
+      "tagLine": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+      "lastUpdated": "9/2021",
+      "language": "English",
+      "subtitles": "English, French, German, Italian, Polish, Portuguese, Spanish",
+      "willLearn": "./will-Learn-Images/Image-2.PNG"
+    },
+    {
+        "id": 3,
+      "img": "./Images/course-3.jpg",
+      "courseName": "Angular - The Complete Guide (2021 Edition)",
+      "instructorName": "Maximilian Schwarzmüller",
+      "price": 14,
+      "tagLine": "Master Angular 12  and build awesome, reactive web apps with the successor of Angular.js",
+      "lastUpdated": "8/2021",
+      "language": "English",
+      "subtitles": "English, French, Indonesian, Italian, Polish, Portuguese, Spanish",
+      "willLearn": "./will-Learn-Images/Image-3.PNG"
+    },
+    {
+        "id": 4,
+      "img": "./Images/course-4.jpg",
+      "courseName": "The Complete Web Developer Course 2.0",
+      "instructorName": "Rob Percival",
+      "price": 15,
+      "tagLine": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+      "lastUpdated": " 9/2021",
+      "language": "English",
+      "subtitles": "English, French, Indonesian, Italian, Polish, Portuguese, Spanish,Romanian,Japanese",
+      "willLearn": "./will-Learn-Images/Image-4.PNG"
+    },
+    {
+        "id": 5,
+      "img": "./Images/course-5.jpg",
+      "courseName": "Python and Django Full Stack Web Developer Bootcamp",
+      "instructorName": "Jose Portilla",
+      "price": 14,
+      "tagLine": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",
+      "lastUpdated": "9/2019",
+      "language": "English",
+      "subtitles": "English, French, Indonesian, Italian, Polish, Portuguese, Spanish,Romanian,Japanese,Turkish",
+      "willLearn": "./will-Learn-Images/Image-5.PNG"
+    },
+    {
+        "id": 6,
+      "img": "./Images/course-6.jpg",
+      "courseName": "The Complete JavaScript Course 2021: From Zero to Expert!",
+      "instructorName": "Jonas Schmedtmann",
+      "price": 14,
+      "tagLine": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "lastUpdated": "7/2021",
+      "language": "English",
+      "subtitles": "English, French, Indonesian, Italian, Polish, Portuguese, Spanish",
+      "willLearn": "./will-Learn-Images/Image-6.PNG"
+    },
+    {
+        "id": 7,
+      "img": "./Images/course-7.jpg",
+      "courseName": "The Complete Web Developer in 2021: Zero to Mastery",
+      "instructorName": "Andrei Neagoie",
+      "price": 15,
+      "tagLine": "Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+      "lastUpdated": "9/2021",
+      "language": "English",
+      "subtitles": "English, Italian, Portuguese, Spanish",
+      "willLearn": "./will-Learn-Images/Image-7.PNG"
+    },
+    {
+        "id": 8,
+      "img": "./Images/course-8.jpg",
+      "courseName": "The Complete 2021 Web Development Bootcamp",
+      "instructorName": "Dr. Angela Yu",
+      "price": 17,
+      "tagLine": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+      "lastUpdated": "1/2021",
+      "language": "English",
+      "subtitles": "English,German,Italian",
+      "willLearn": "./will-Learn-Images/Image-8.PNG"
+    }
+  ]
